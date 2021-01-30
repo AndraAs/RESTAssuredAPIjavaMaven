@@ -1,0 +1,4 @@
+I have created a Maven project with Cucumber Rest Assured dependencies.
+The test can be executed from any IDE by running it as a Junit test or Java Application from the file: TestRunner.java. This will also generate a Cucumber report link, available in the console output.
+The test can also be executed as a Cucumber test from the file: validations.feature
+Finally the test can be executed from command line by using: mvn test. This will only be available if Maven and Java are installed and the enviroment variables are set for both.
